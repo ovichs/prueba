@@ -23,3 +23,10 @@ searchBar.addEventListener('keyup', e => {
     }
   }
 });
+
+// searchBar.addEventListener('keyup', e => {
+//   const searchString = e.target.value.toLowerCase();
+//   const products = document.querySelectorAll('.grid img');
+//   const filtered = products.filter( product => product.includes(searchString));
+//   filtered.style.display = 'none';
+// });
