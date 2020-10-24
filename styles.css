@@ -61,10 +61,10 @@ input::placeholder{
     grid-template-columns: repeat(2, 1fr);
   }
   .grid img {
-    max-width: 90%;
+    max-width: 60%;
   }
   input[type="text"] {
-    width: 300px;
+    width: 200px;
   }
   #logo {
     height: 70%;
