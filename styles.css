@@ -42,6 +42,7 @@ input::placeholder{
 }
 .grid img {
   max-width: 95%;
+  height: auto;
 }
 
 
