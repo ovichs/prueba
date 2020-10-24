@@ -61,7 +61,7 @@ input::placeholder{
     grid-template-columns: repeat(2, 1fr);
   }
   .grid img {
-    max-width: 60%;
+    max-width: 40%;
   }
   input[type="text"] {
     width: 200px;
